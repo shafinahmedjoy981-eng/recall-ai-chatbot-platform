@@ -1,0 +1,6 @@
+{
+  "name": "Recall — Never-Repeat-Yourself Memory Bot",
+  "description": "Enterprise customer support dashboard with cross-session persistent memory, contextual recall citations, and structured memory inspection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
